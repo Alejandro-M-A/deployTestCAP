@@ -20,7 +20,7 @@
   },
   "cds": {
     "requires": {
-      "auth": "xsuaa",
+      "auth": "dummy",
       "connectivity": true,
       "destinations": true
     }
